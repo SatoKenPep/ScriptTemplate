@@ -1,0 +1,2 @@
+# ScriptTemplate
+Script template.
